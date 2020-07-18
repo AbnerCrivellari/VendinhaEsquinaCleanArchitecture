@@ -1,0 +1,9 @@
+C:\Users\Abner Crivellari\source\repos\VendinhaEsquina\VendinhaEsquina.Core\bin\Debug\netcoreapp3.1\VendinhaEsquina.Core.deps.json
+C:\Users\Abner Crivellari\source\repos\VendinhaEsquina\VendinhaEsquina.Core\bin\Debug\netcoreapp3.1\VendinhaEsquina.Core.dll
+C:\Users\Abner Crivellari\source\repos\VendinhaEsquina\VendinhaEsquina.Core\bin\Debug\netcoreapp3.1\VendinhaEsquina.Core.pdb
+C:\Users\Abner Crivellari\source\repos\VendinhaEsquina\VendinhaEsquina.Core\obj\Debug\netcoreapp3.1\VendinhaEsquina.Core.csprojAssemblyReference.cache
+C:\Users\Abner Crivellari\source\repos\VendinhaEsquina\VendinhaEsquina.Core\obj\Debug\netcoreapp3.1\VendinhaEsquina.Core.AssemblyInfoInputs.cache
+C:\Users\Abner Crivellari\source\repos\VendinhaEsquina\VendinhaEsquina.Core\obj\Debug\netcoreapp3.1\VendinhaEsquina.Core.AssemblyInfo.cs
+C:\Users\Abner Crivellari\source\repos\VendinhaEsquina\VendinhaEsquina.Core\obj\Debug\netcoreapp3.1\VendinhaEsquina.Core.csproj.CoreCompileInputs.cache
+C:\Users\Abner Crivellari\source\repos\VendinhaEsquina\VendinhaEsquina.Core\obj\Debug\netcoreapp3.1\VendinhaEsquina.Core.dll
+C:\Users\Abner Crivellari\source\repos\VendinhaEsquina\VendinhaEsquina.Core\obj\Debug\netcoreapp3.1\VendinhaEsquina.Core.pdb

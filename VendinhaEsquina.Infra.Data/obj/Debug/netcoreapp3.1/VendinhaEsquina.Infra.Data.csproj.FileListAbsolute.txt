@@ -1,0 +1,15 @@
+C:\Users\Abner Crivellari\source\repos\VendinhaEsquina\VendinhaEsquina.Infra.Data\bin\Debug\netcoreapp3.1\VendinhaEsquina.Infra.Data.deps.json
+C:\Users\Abner Crivellari\source\repos\VendinhaEsquina\VendinhaEsquina.Infra.Data\bin\Debug\netcoreapp3.1\VendinhaEsquina.Infra.Data.dll
+C:\Users\Abner Crivellari\source\repos\VendinhaEsquina\VendinhaEsquina.Infra.Data\obj\Debug\netcoreapp3.1\VendinhaEsquina.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Abner Crivellari\source\repos\VendinhaEsquina\VendinhaEsquina.Infra.Data\obj\Debug\netcoreapp3.1\VendinhaEsquina.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Abner Crivellari\source\repos\VendinhaEsquina\VendinhaEsquina.Infra.Data\obj\Debug\netcoreapp3.1\VendinhaEsquina.Infra.Data.AssemblyInfo.cs
+C:\Users\Abner Crivellari\source\repos\VendinhaEsquina\VendinhaEsquina.Infra.Data\bin\Debug\netcoreapp3.1\VendinhaEsquina.Infra.Data.runtimeconfig.json
+C:\Users\Abner Crivellari\source\repos\VendinhaEsquina\VendinhaEsquina.Infra.Data\bin\Debug\netcoreapp3.1\VendinhaEsquina.Infra.Data.runtimeconfig.dev.json
+C:\Users\Abner Crivellari\source\repos\VendinhaEsquina\VendinhaEsquina.Infra.Data\bin\Debug\netcoreapp3.1\VendinhaEsquina.Infra.Data.pdb
+C:\Users\Abner Crivellari\source\repos\VendinhaEsquina\VendinhaEsquina.Infra.Data\bin\Debug\netcoreapp3.1\VendinhaEsquina.Core.dll
+C:\Users\Abner Crivellari\source\repos\VendinhaEsquina\VendinhaEsquina.Infra.Data\bin\Debug\netcoreapp3.1\VendinhaEsquina.Core.pdb
+C:\Users\Abner Crivellari\source\repos\VendinhaEsquina\VendinhaEsquina.Infra.Data\obj\Debug\netcoreapp3.1\VendinhaEsquina.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Abner Crivellari\source\repos\VendinhaEsquina\VendinhaEsquina.Infra.Data\obj\Debug\netcoreapp3.1\VendinhaEsquina.Infra.Data.csproj.CopyComplete
+C:\Users\Abner Crivellari\source\repos\VendinhaEsquina\VendinhaEsquina.Infra.Data\obj\Debug\netcoreapp3.1\VendinhaEsquina.Infra.Data.dll
+C:\Users\Abner Crivellari\source\repos\VendinhaEsquina\VendinhaEsquina.Infra.Data\obj\Debug\netcoreapp3.1\VendinhaEsquina.Infra.Data.pdb
+C:\Users\Abner Crivellari\source\repos\VendinhaEsquina\VendinhaEsquina.Infra.Data\obj\Debug\netcoreapp3.1\VendinhaEsquina.Infra.Data.genruntimeconfig.cache
